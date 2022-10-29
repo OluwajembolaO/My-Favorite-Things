@@ -1,0 +1,11 @@
+h1 {color:#5a28b8; 
+    font-size:36px; 
+    font-family:"Sans-serif";}
+    
+h2 {color:#5a28b8; 
+    font-family:"Fantasy","Monospace";}
+ol, ul{color:#7b34c7; 
+       list-style-type:circle;}
+    
+hr {border-color:#7b34c7 ; 
+  border-width:3px; border-style:dashed}
