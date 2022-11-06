@@ -1,12 +1,30 @@
-p  {color:#5a28b8;font-family:"cursive"}
-h1 {color:#5a28b8; 
-    font-size:36px; 
-    font-family:"Sans-serif";}
+body{
+   background-color:#130233;
+   border-style: solid;
+   border-color: #7b34c7;
+   border-width:10px;
+   margin:0px;
+ }
+header {background-color:#b760d1;
+}
+
+p  {
+  color:#5a28b8;font-family:"cursive"}
+
+h1 {Text-align:center;
+    color:#5a28b8; 
+    font-size:72px; 
+    font-family:"Sans-serif";
+   margin:0px}
     
-h2 {color:#5a28b8; 
+h2 {Text-align:center;
+    color:#5a28b8; 
     font-family:"Fantasy","Monospace";}
 ol, ul{color:#7b34c7; 
        list-style-type:circle;}
     
 hr {border-color:#7b34c7 ; 
   border-width:3px; border-style:dashed}
+
+#Credibility{color:#5a28b8;
+font-size:32px}
